@@ -1,0 +1,20 @@
+Trang Nguyen
+Machine Learning
+Homework 2
+
+Files:
+README
+Nguyen_perceptron.py
+
+Experiment:
+- After running the program with different number of iterations provided that --nodev (or train data) or dev data is being used, the performance fluctuates a lot.
+- Hence, we can clearly see that the performance is being overshoot.
+- If we decrease the learning rate, the performance will still fluctuate for train and dev data but has a better accuracy.
+
+How to run:
+./Nguyen_perceptron.py --nodev --iterations (number) --lr (number)
+
+
+
+
+ 
